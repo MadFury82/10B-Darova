@@ -19,3 +19,12 @@ button{
   background-color: black;
   color: #fff;
 }
+.box-model{
+  width: 100px;
+  height:100px;
+  background-color: #000;
+  border: solid 3px yellow;
+  margin: 30px;
+  padding: 30px;
+  outline: solid 3px red;
+}
